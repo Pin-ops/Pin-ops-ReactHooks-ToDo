@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pin-ops-ReactHooks-ToDo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Pin-ops-ReactHooks-ToDo/static/js/main.1d3624d4.chunk.js",
+    "main.js.map": "/Pin-ops-ReactHooks-ToDo/static/js/main.1d3624d4.chunk.js.map",
+    "runtime-main.js": "/Pin-ops-ReactHooks-ToDo/static/js/runtime-main.17662d79.js",
+    "runtime-main.js.map": "/Pin-ops-ReactHooks-ToDo/static/js/runtime-main.17662d79.js.map",
+    "static/css/2.de424728.chunk.css": "/Pin-ops-ReactHooks-ToDo/static/css/2.de424728.chunk.css",
+    "static/js/2.3137c013.chunk.js": "/Pin-ops-ReactHooks-ToDo/static/js/2.3137c013.chunk.js",
+    "static/js/2.3137c013.chunk.js.map": "/Pin-ops-ReactHooks-ToDo/static/js/2.3137c013.chunk.js.map",
+    "index.html": "/Pin-ops-ReactHooks-ToDo/index.html",
+    "precache-manifest.db4b1116c4e302d7fc7081c485be60b6.js": "/Pin-ops-ReactHooks-ToDo/precache-manifest.db4b1116c4e302d7fc7081c485be60b6.js",
+    "service-worker.js": "/Pin-ops-ReactHooks-ToDo/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Pin-ops-ReactHooks-ToDo/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Pin-ops-ReactHooks-ToDo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3137c013.chunk.js.LICENSE.txt": "/Pin-ops-ReactHooks-ToDo/static/js/2.3137c013.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17662d79.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3137c013.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1d3624d4.chunk.js"
+  ]
+}
